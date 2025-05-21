@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "jewellery_name": "Elegant Gold Ring",
+        "gold_weight": 8,
+        "wastage_percent": 5,
+        "making_charge_percent": 12,
+        "tax_percent": 3,
+        "image_url": "images/ring.jpg"
+    },
+    {
+        "id": 2,
+        "jewellery_name": "Royal Gold Necklace",
+        "gold_weight": 25,
+        "wastage_percent": 8,
+        "making_charge_percent": 15,
+        "tax_percent": 3,
+        "image_url": "images/necklace.jpg"
+    },
+    {
+        "id": 3,
+        "jewellery_name": "Classic Gold Bracelet",
+        "gold_weight": 15,
+        "wastage_percent": 6,
+        "making_charge_percent": 10,
+        "tax_percent": 3,
+        "image_url": "images/bracelet.jpg"
+    }
+]
